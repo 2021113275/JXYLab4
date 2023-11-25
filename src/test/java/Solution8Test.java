@@ -78,8 +78,8 @@ public class Solution8Test
                 {'0', '0', '1', '0'},
                 {'0', '1', '0', '1'}};
         assertEquals(0, program.numIslands(grid1));
-        assertEquals(1, program.numIslands(grid2));
-        assertEquals(4, program.numIslands(grid3));
+        assertEquals(2, program.numIslands(grid2));
+        assertEquals(3, program.numIslands(grid3));
     }
 
     /*

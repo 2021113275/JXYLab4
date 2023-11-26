@@ -1,7 +1,7 @@
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-
+//添加一行注释，测试一下jenkins
 
 public class Solution8Test
 {
